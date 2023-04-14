@@ -4,12 +4,16 @@ header {
 }
 
 main {
-  background-image: url("/src/images/Photo-2023-03-30-16-22-03.jpg");
+  background-image: url("/src/images/PHOTO-2023-03-30-16-22-03.jpg");
 }
 main .headline {
   max-height: 100vh;
   height: 100%;
   padding: 40vh 0;
+}
+
+h1 {
+  text-transform: capitalize;
 }
 
 .container {
